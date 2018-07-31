@@ -1,0 +1,22 @@
+{
+  "name": "docker-node-app",
+  "version": "1.0.0",
+  "description": "A node.js app that runs inside a docker contianer but lives outside",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/panjisob/docker-node-app",
+  "keywords": [
+    "docker",
+    "nodejs",
+    "dev",
+    "hotreloading"
+  ],
+  "author": "kelompok",
+  "license": "Suka suka",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
