@@ -4,3 +4,5 @@ Nama Kelompok
 - Maria Fransiska Indut (155610062)
 
 # Dokumentasi Project TCC
+
+![alt text](https://github.com/panjisob/Project-tcc/tree/master/ss/1.png)
