@@ -5,4 +5,4 @@ Nama Kelompok
 
 # Dokumentasi Project TCC
 
-![alt text](https://github.com/panjisob/Project-tcc/tree/master/ss/1.png)
+![alt text](https://github.com/panjisob/Project-tcc/blob/master/ss/1.png)
