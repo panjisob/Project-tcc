@@ -6,8 +6,13 @@ Nama Kelompok
 link [dockerhub](https://hub.docker.com/r/panjisob/project-tcc/)
 
 # Dokumentasi Project TCC
-### Log in to Container Registry
+### Log in ke Container Registry
 ![alt text](https://github.com/panjisob/Project-tcc/blob/master/ss/1.png)
 
-### Build the image and push to Container Registry
+### Membuat sebuah image dan push ke Container Registry
 ![alt text](https://github.com/panjisob/Project-tcc/blob/master/ss/2.png)
+
+### Memasukan image ke dalam app dan membuka aplikasi di browser
+![alt text](https://github.com/panjisob/Project-tcc/blob/master/ss/4.png)
+
+link [hasilnya](https://hub.docker.com/r/panjisob/project-tcc/)
