@@ -2,7 +2,5 @@
 Nama Kelompok
 - Panji Sobari S (155610055)
 - Anis Saturrodiyah (155610072)
-- 
+- Maria Fransiska Indut (155610062)
 
-
-Compainion repository to [Developing Node.js applications in Docker](https://thejackalofjavascript.com/developing-node-js-applications-in-docker/)
