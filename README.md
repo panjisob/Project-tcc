@@ -15,4 +15,4 @@ link [dockerhub](https://hub.docker.com/r/panjisob/project-tcc/)
 ### Memasukan image ke dalam app dan membuka aplikasi di browser
 ![alt text](https://github.com/panjisob/Project-tcc/blob/master/ss/4.png)
 
-link [hasilnya](https://hub.docker.com/r/panjisob/project-tcc/)
+link [hasilnya](https://webs.herokuapp.com/)
