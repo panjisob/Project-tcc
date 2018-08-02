@@ -6,3 +6,6 @@ Nama Kelompok
 # Dokumentasi Project TCC
 ### Log in to Container Registry
 ![alt text](https://github.com/panjisob/Project-tcc/blob/master/ss/1.png)
+
+### Build the image and push to Container Registry
+![alt text](https://github.com/panjisob/Project-tcc/blob/master/ss/2.png)
